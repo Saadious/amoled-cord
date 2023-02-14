@@ -66,7 +66,7 @@ Some small enhancements.
 - Added a new indicator for when the chatbar is active.
 
 # Version 1.0.2
-Hopefully a fix for the source not consistently importing.
+Hopefully a fix for the source not consistently importing.d
 
 # Version 1.0.1
 Recent changes as [Theme Source](https://github.com/luckfire/theme-source) has been redone.
